@@ -1,4 +1,9 @@
-### Hi there 👋
+### My Github profile 📑
+
+---
+
+<img align="left" alt="Skyward67's stats" src="https://github-readme-stats.vercel.app/api?username=Skyward67&show_icons=true&theme=radical">
+<img align="left" alt="Skyward67's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyward67&layout=compact">
 
 <!--
 **Skyward67/Skyward67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
