@@ -7,7 +7,7 @@
 
 
 
-<img align="left" alt="Skyward67's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyward67&layout=compact" />
+<img align="left" alt="Skyward67's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyward67&layout=compact&theme=radical" />
 <img align="left" alt="Skyward67's stats" src="https://github-readme-stats.vercel.app/api?username=Skyward67&show_icons=true&theme=radical" />
 
 ---
