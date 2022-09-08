@@ -2,7 +2,7 @@
 
 ---
 #### Actuellement :
-💼 IUT Lyon 1 - DUT Informatique 2eme année \
+💼 CPE Lyon - Ingénieur Informatique et réseaux de communication \
 ✏️ En création d'un site web
 
 #### Outils et languages :
